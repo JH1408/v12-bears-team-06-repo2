@@ -2,8 +2,8 @@
 
 ## Overview
 This is the backend repository for a travel planning app created during the Chingu Voyage 12.
-<br>
-In the backend I was responsible for the destination routes (includes weather API & attractions API) as well as the user routes and the user model for MongoDB (includes authentication routes, image upload and more). In the frontend I was responsible for the authentication, login/register modal, avatar section and date section.   
+<br> 
+I was responsible for the destination routes (includes weather API & attractions API) as well as the user routes and the user model for MongoDB (includes authentication routes, image upload and more). In the frontend I was responsible for the authentication, login/register modal, avatar section and date section.   
 <br>
 Check out the frontend repository [here]( https://github.com/chingu-voyages/v12-bears-team-06).
 <br>
